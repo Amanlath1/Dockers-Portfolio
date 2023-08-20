@@ -33,7 +33,7 @@ body, h1, h2, p, ul {
     color: #4a90e2;
   }
   
-  .Phone, .mail, .addr, .lnkdn {
+  .Phone, .mail, .addr, .lnkdn, .gthb {
     margin-bottom: 10px;
     color: #777;
   }
